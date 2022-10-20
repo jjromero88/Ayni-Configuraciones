@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ayni.Configuracion.Transversal.Common.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Ayni.Configuracion.Transversal.Common.Response&lt;T&gt;</summary>
+        </member>
+        <member name="M:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.#ctor(Ayni.Configuracion.Transversal.Common.Response{`0})">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.AllInstances.DataGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.get_Data(Response`1 this)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.AllInstances.DataSetT0">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.set_Data(Response`1 this, !0 value)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.AllInstances.IsSuccessGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.get_IsSuccess(Response`1 this)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.AllInstances.IsSuccessSetBoolean">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.set_IsSuccess(Response`1 this, Boolean value)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.AllInstances.MessageGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.get_Message(Response`1 this)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.AllInstances.MessageSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.set_Message(Response`1 this, String value)</summary>
+        </member>
+        <member name="M:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.Response`1(Response`1 this)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.DataGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.get_Data(Response`1 this)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.DataSetT0">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.set_Data(Response`1 this, !0 value)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.IsSuccessGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.get_IsSuccess(Response`1 this)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.IsSuccessSetBoolean">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.set_IsSuccess(Response`1 this, Boolean value)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.MessageGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.get_Message(Response`1 this)</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.ShimResponse`1.MessageSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de Response`1.set_Message(Response`1 this, String value)</summary>
+        </member>
+        <member name="T:Ayni.Configuracion.Transversal.Common.Fakes.StubIConnectionFactory">
+            <summary>Tipo stub de Ayni.Configuracion.Transversal.Common.IConnectionFactory</summary>
+        </member>
+        <member name="M:Ayni.Configuracion.Transversal.Common.Fakes.StubIConnectionFactory.#ctor">
+            <summary>Inicializa una nueva instancia de type StubIConnectionFactory</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.StubIConnectionFactory.Ayni#Configuracion#Transversal#Common#IConnectionFactory#GetConnection">
+            <summary>Establecer el stub de IConnectionFactory.get_GetConnection(IConnectionFactory this)</summary>
+        </member>
+        <member name="F:Ayni.Configuracion.Transversal.Common.Fakes.StubIConnectionFactory.GetConnectionGet">
+            <summary>Establecer el stub de IConnectionFactory.get_GetConnection(IConnectionFactory this)</summary>
+        </member>
+        <member name="T:Ayni.Configuracion.Transversal.Common.Fakes.StubResponse`1">
+            <summary>Tipo stub de Ayni.Configuracion.Transversal.Common.Response&lt;T&gt;</summary>
+        </member>
+        <member name="M:Ayni.Configuracion.Transversal.Common.Fakes.StubResponse`1.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.StubResponse`1.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:Ayni.Configuracion.Transversal.Common.Fakes.StubResponse`1.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubResponse</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.StubResponse`1.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Ayni.Configuracion.Transversal.Common.Fakes.StubResponse`1.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+    </members>
+</doc>
