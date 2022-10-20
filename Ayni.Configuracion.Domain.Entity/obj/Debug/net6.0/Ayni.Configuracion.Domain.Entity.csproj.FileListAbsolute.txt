@@ -1,0 +1,12 @@
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\bin\Debug\net6.0\Ayni.Configuracion.Domain.Entity.deps.json
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\bin\Debug\net6.0\Ayni.Configuracion.Domain.Entity.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\bin\Debug\net6.0\Ayni.Configuracion.Domain.Entity.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\obj\Debug\net6.0\Ayni.Configuracion.Domain.Entity.csproj.AssemblyReference.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\obj\Debug\net6.0\Ayni.Configuracion.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\obj\Debug\net6.0\Ayni.Configuracion.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\obj\Debug\net6.0\Ayni.Configuracion.Domain.Entity.AssemblyInfo.cs
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\obj\Debug\net6.0\Ayni.Configuracion.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\obj\Debug\net6.0\Ayni.Configuracion.Domain.Entity.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\obj\Debug\net6.0\refint\Ayni.Configuracion.Domain.Entity.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\obj\Debug\net6.0\Ayni.Configuracion.Domain.Entity.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Entity\obj\Debug\net6.0\ref\Ayni.Configuracion.Domain.Entity.dll
