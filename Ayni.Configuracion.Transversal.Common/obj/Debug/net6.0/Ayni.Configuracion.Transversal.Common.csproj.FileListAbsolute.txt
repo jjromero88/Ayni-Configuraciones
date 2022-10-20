@@ -1,0 +1,12 @@
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\bin\Debug\net6.0\Ayni.Configuracion.Transversal.Common.deps.json
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\bin\Debug\net6.0\Ayni.Configuracion.Transversal.Common.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\bin\Debug\net6.0\Ayni.Configuracion.Transversal.Common.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Common.AssemblyInfo.cs
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Common.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\obj\Debug\net6.0\refint\Ayni.Configuracion.Transversal.Common.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Common.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Common\obj\Debug\net6.0\ref\Ayni.Configuracion.Transversal.Common.dll
