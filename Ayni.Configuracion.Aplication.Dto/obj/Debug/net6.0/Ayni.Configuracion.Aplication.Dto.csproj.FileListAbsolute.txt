@@ -1,0 +1,12 @@
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\bin\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.deps.json
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\bin\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\bin\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.csproj.AssemblyReference.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.AssemblyInfoInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.AssemblyInfo.cs
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.csproj.CoreCompileInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\obj\Debug\net6.0\refint\Ayni.Configuracion.Aplication.Dto.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Dto\obj\Debug\net6.0\ref\Ayni.Configuracion.Aplication.Dto.dll
