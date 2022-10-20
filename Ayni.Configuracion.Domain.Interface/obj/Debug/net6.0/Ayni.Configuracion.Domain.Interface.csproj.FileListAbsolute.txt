@@ -1,0 +1,15 @@
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\bin\Debug\net6.0\Ayni.Configuracion.Domain.Interface.deps.json
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\bin\Debug\net6.0\Ayni.Configuracion.Domain.Interface.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\bin\Debug\net6.0\Ayni.Configuracion.Domain.Interface.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\bin\Debug\net6.0\Ayni.Configuracion.Domain.Entity.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\bin\Debug\net6.0\Ayni.Configuracion.Domain.Entity.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\obj\Debug\net6.0\Ayni.Configuracion.Domain.Interface.csproj.AssemblyReference.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\obj\Debug\net6.0\Ayni.Configuracion.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\obj\Debug\net6.0\Ayni.Configuracion.Domain.Interface.AssemblyInfoInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\obj\Debug\net6.0\Ayni.Configuracion.Domain.Interface.AssemblyInfo.cs
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\obj\Debug\net6.0\Ayni.Configuracion.Domain.Interface.csproj.CoreCompileInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\obj\Debug\net6.0\Ayni.Configuracion.Domain.Interface.csproj.CopyComplete
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\obj\Debug\net6.0\Ayni.Configuracion.Domain.Interface.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\obj\Debug\net6.0\refint\Ayni.Configuracion.Domain.Interface.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\obj\Debug\net6.0\Ayni.Configuracion.Domain.Interface.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Domain.Interface\obj\Debug\net6.0\ref\Ayni.Configuracion.Domain.Interface.dll
