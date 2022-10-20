@@ -1,0 +1,17 @@
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\bin\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.deps.json
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\bin\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\bin\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\bin\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\bin\Debug\net6.0\Ayni.Configuracion.Domain.Entity.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\bin\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\bin\Debug\net6.0\Ayni.Configuracion.Domain.Entity.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.csproj.CopyComplete
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\obj\Debug\net6.0\refint\Ayni.Configuracion.Transversal.Mapper.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\obj\Debug\net6.0\Ayni.Configuracion.Transversal.Mapper.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Transversal.Mapper\obj\Debug\net6.0\ref\Ayni.Configuracion.Transversal.Mapper.dll
