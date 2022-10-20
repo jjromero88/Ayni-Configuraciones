@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="FakesAssemblies\**" />
+    <Content Remove="FakesAssemblies\**" />
+    <EmbeddedResource Remove="FakesAssemblies\**" />
+    <None Remove="FakesAssemblies\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Microsoft.QualityTools.Testing.Fakes" Version="16.11.230815" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ayni.Configuracion.Aplication.Dto\Ayni.Configuracion.Aplication.Dto.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Aplication.Interface\Ayni.Configuracion.Aplication.Interface.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Aplication.Main\Ayni.Configuracion.Aplication.Main.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Domain.Core\Ayni.Configuracion.Domain.Core.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Domain.Entity\Ayni.Configuracion.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Domain.Interface\Ayni.Configuracion.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Infraestructure.Data\Ayni.Configuracion.Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Infraestructure.Interface\Ayni.Configuracion.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Infraestructure.Repository\Ayni.Configuracion.Infraestructure.Repository.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Transversal.Common\Ayni.Configuracion.Transversal.Common.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Transversal.Mapper\Ayni.Configuracion.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AdditionalDesignTimeBuildInput Remove="FakesAssemblies\**" />
+  </ItemGroup>
+
+</Project>
