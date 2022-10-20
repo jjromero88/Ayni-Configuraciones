@@ -1,0 +1,15 @@
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\bin\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.deps.json
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\bin\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\bin\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\bin\Debug\net6.0\Ayni.Configuracion.Transversal.Common.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\bin\Debug\net6.0\Ayni.Configuracion.Transversal.Common.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\obj\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.csproj.AssemblyReference.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\obj\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\obj\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\obj\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.AssemblyInfo.cs
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\obj\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\obj\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.csproj.CopyComplete
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\obj\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\obj\Debug\net6.0\refint\Ayni.Configuracion.Infraestructure.Data.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\obj\Debug\net6.0\Ayni.Configuracion.Infraestructure.Data.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Infraestructure.Data\obj\Debug\net6.0\ref\Ayni.Configuracion.Infraestructure.Data.dll
