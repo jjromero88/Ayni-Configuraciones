@@ -1,0 +1,114 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ayni.Configuracion.Aplication.Main/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "12.0.0",
+          "Ayni.Configuracion.Aplication.Dto": "1.0.0",
+          "Ayni.Configuracion.Aplication.Interface": "1.0.0",
+          "Ayni.Configuracion.Domain.Entity": "1.0.0",
+          "Ayni.Configuracion.Domain.Interface": "1.0.0",
+          "Ayni.Configuracion.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Ayni.Configuracion.Aplication.Main.dll": {}
+        }
+      },
+      "AutoMapper/12.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Ayni.Configuracion.Aplication.Dto/1.0.0": {
+        "runtime": {
+          "Ayni.Configuracion.Aplication.Dto.dll": {}
+        }
+      },
+      "Ayni.Configuracion.Aplication.Interface/1.0.0": {
+        "dependencies": {
+          "Ayni.Configuracion.Aplication.Dto": "1.0.0",
+          "Ayni.Configuracion.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Ayni.Configuracion.Aplication.Interface.dll": {}
+        }
+      },
+      "Ayni.Configuracion.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Ayni.Configuracion.Domain.Entity.dll": {}
+        }
+      },
+      "Ayni.Configuracion.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "Ayni.Configuracion.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Ayni.Configuracion.Domain.Interface.dll": {}
+        }
+      },
+      "Ayni.Configuracion.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Ayni.Configuracion.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ayni.Configuracion.Aplication.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoMapper/12.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0Rmg0zI5AFu1O/y//o9VGyhxKjhggWpk9mOA1tp0DEVx40c61bs+lnQv+0jUq8XbniF7FKgIVvI1perqiMtLrA==",
+      "path": "automapper/12.0.0",
+      "hashPath": "automapper.12.0.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Ayni.Configuracion.Aplication.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ayni.Configuracion.Aplication.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ayni.Configuracion.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ayni.Configuracion.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ayni.Configuracion.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

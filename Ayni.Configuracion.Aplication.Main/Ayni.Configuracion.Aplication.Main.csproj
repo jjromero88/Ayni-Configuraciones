@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ayni.Configuracion.Aplication.Dto\Ayni.Configuracion.Aplication.Dto.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Aplication.Interface\Ayni.Configuracion.Aplication.Interface.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Domain.Entity\Ayni.Configuracion.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Domain.Interface\Ayni.Configuracion.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Transversal.Common\Ayni.Configuracion.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>

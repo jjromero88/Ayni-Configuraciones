@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C84JRDNCCnAa6t5iWt/71yJrMYXfHzpgaSACfYI+bB7o8WBisIc5CTySKBk2y4A9yrifC4NK1y6jKTV6ADm1iA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JUANJO\\Source\\Repos\\ayni-configuracion\\Ayni.Configuracion.Aplication.Main\\Ayni.Configuracion.Aplication.Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JUANJO\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\JUANJO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
