@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ayni.Configuracion.Domain.Entity\Ayni.Configuracion.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Domain.Interface\Ayni.Configuracion.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Ayni.Configuracion.Infraestructure.Interface\Ayni.Configuracion.Infraestructure.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

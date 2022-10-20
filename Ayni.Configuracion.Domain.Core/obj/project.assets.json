@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Ayni.Configuracion.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ayni.Configuracion.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ayni.Configuracion.Domain.Entity.dll": {}
+        }
+      },
+      "Ayni.Configuracion.Domain.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Ayni.Configuracion.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ayni.Configuracion.Domain.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ayni.Configuracion.Domain.Interface.dll": {}
+        }
+      },
+      "Ayni.Configuracion.Infraestructure.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Ayni.Configuracion.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ayni.Configuracion.Infraestructure.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ayni.Configuracion.Infraestructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ayni.Configuracion.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Ayni.Configuracion.Domain.Entity/Ayni.Configuracion.Domain.Entity.csproj",
+      "msbuildProject": "../Ayni.Configuracion.Domain.Entity/Ayni.Configuracion.Domain.Entity.csproj"
+    },
+    "Ayni.Configuracion.Domain.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Ayni.Configuracion.Domain.Interface/Ayni.Configuracion.Domain.Interface.csproj",
+      "msbuildProject": "../Ayni.Configuracion.Domain.Interface/Ayni.Configuracion.Domain.Interface.csproj"
+    },
+    "Ayni.Configuracion.Infraestructure.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Ayni.Configuracion.Infraestructure.Interface/Ayni.Configuracion.Infraestructure.Interface.csproj",
+      "msbuildProject": "../Ayni.Configuracion.Infraestructure.Interface/Ayni.Configuracion.Infraestructure.Interface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Ayni.Configuracion.Domain.Entity >= 1.0.0",
+      "Ayni.Configuracion.Domain.Interface >= 1.0.0",
+      "Ayni.Configuracion.Infraestructure.Interface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\JUANJO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\JUANJO\\Source\\Repos\\ayni-configuracion\\Ayni.Configuracion.Domain.Core\\Ayni.Configuracion.Domain.Core.csproj",
+      "projectName": "Ayni.Configuracion.Domain.Core",
+      "projectPath": "C:\\Users\\JUANJO\\Source\\Repos\\ayni-configuracion\\Ayni.Configuracion.Domain.Core\\Ayni.Configuracion.Domain.Core.csproj",
+      "packagesPath": "C:\\Users\\JUANJO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JUANJO\\Source\\Repos\\ayni-configuracion\\Ayni.Configuracion.Domain.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\JUANJO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\JUANJO\\Source\\Repos\\ayni-configuracion\\Ayni.Configuracion.Domain.Entity\\Ayni.Configuracion.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\JUANJO\\Source\\Repos\\ayni-configuracion\\Ayni.Configuracion.Domain.Entity\\Ayni.Configuracion.Domain.Entity.csproj"
+            },
+            "C:\\Users\\JUANJO\\Source\\Repos\\ayni-configuracion\\Ayni.Configuracion.Domain.Interface\\Ayni.Configuracion.Domain.Interface.csproj": {
+              "projectPath": "C:\\Users\\JUANJO\\Source\\Repos\\ayni-configuracion\\Ayni.Configuracion.Domain.Interface\\Ayni.Configuracion.Domain.Interface.csproj"
+            },
+            "C:\\Users\\JUANJO\\Source\\Repos\\ayni-configuracion\\Ayni.Configuracion.Infraestructure.Interface\\Ayni.Configuracion.Infraestructure.Interface.csproj": {
+              "projectPath": "C:\\Users\\JUANJO\\Source\\Repos\\ayni-configuracion\\Ayni.Configuracion.Infraestructure.Interface\\Ayni.Configuracion.Infraestructure.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
