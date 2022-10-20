@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ayni.Configuracion.Aplication.Interface/1.0.0": {
+        "dependencies": {
+          "Ayni.Configuracion.Aplication.Dto": "1.0.0",
+          "Ayni.Configuracion.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Ayni.Configuracion.Aplication.Interface.dll": {}
+        }
+      },
+      "Ayni.Configuracion.Aplication.Dto/1.0.0": {
+        "runtime": {
+          "Ayni.Configuracion.Aplication.Dto.dll": {}
+        }
+      },
+      "Ayni.Configuracion.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Ayni.Configuracion.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ayni.Configuracion.Aplication.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ayni.Configuracion.Aplication.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ayni.Configuracion.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

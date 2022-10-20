@@ -1,0 +1,17 @@
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\bin\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.deps.json
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\bin\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\bin\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\bin\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\bin\Debug\net6.0\Ayni.Configuracion.Transversal.Common.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\bin\Debug\net6.0\Ayni.Configuracion.Aplication.Dto.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\bin\Debug\net6.0\Ayni.Configuracion.Transversal.Common.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.csproj.AssemblyReference.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.AssemblyInfoInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.AssemblyInfo.cs
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.csproj.CoreCompileInputs.cache
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.csproj.CopyComplete
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\obj\Debug\net6.0\refint\Ayni.Configuracion.Aplication.Interface.dll
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\obj\Debug\net6.0\Ayni.Configuracion.Aplication.Interface.pdb
+C:\Users\JUANJO\Desktop\Proyectos\AYNI\API\Configuracion\Ayni.Configuracion\Ayni.Configuracion.Aplication.Interface\obj\Debug\net6.0\ref\Ayni.Configuracion.Aplication.Interface.dll
